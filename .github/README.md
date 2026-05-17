@@ -459,7 +459,7 @@ Huge thanks to the following kind people, for their ongoing support in funding t
     </td>
     <td align="center">
         <a href="https://github.com/BrunoBernardino">
-            <img src="https://avatars.githubusercontent.com/u/1239616?v=4" width="60;" alt="BrunoBernardino"/>
+            <img src="https://avatars.githubusercontent.com/u/1239616?u=6a9bfea14526fc6c7e36997db2cf8a875c426250&v=4" width="60;" alt="BrunoBernardino"/>
             <br />
             <sub><b>Bruno Bernardino</b></sub>
         </a>
@@ -480,7 +480,7 @@ Huge thanks to the following kind people, for their ongoing support in funding t
     </td>
     <td align="center">
         <a href="https://github.com/nrjohnstone">
-            <img src="https://avatars.githubusercontent.com/u/6700819?v=4" width="60;" alt="nrjohnstone"/>
+            <img src="https://avatars.githubusercontent.com/u/6700819?u=69bacb0992f954b8ae8845228726c9f24b6ebff1&v=4" width="60;" alt="nrjohnstone"/>
             <br />
             <sub><b>Nathan Johnstone</b></sub>
         </a>
@@ -500,20 +500,13 @@ Huge thanks to the following kind people, for their ongoing support in funding t
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/bmcgonag">
-            <img src="https://avatars.githubusercontent.com/u/7346620?u=2a0f9284f3e12ac1cc15288c254d1ec68a5081e8&v=4" width="60;" alt="bmcgonag"/>
-            <br />
-            <sub><b>Brian McGonagill</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
         <a href="https://github.com/elvito">
             <img src="https://avatars.githubusercontent.com/u/9715912?v=4" width="60;" alt="elvito"/>
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/vlad-tim">
             <img src="https://avatars.githubusercontent.com/u/11474041?u=eee43705b54d2ec9f51fc4fcce5ad18dd17c87e4&v=4" width="60;" alt="vlad-tim"/>
@@ -562,15 +555,15 @@ Huge thanks to the following kind people, for their ongoing support in funding t
             <br />
             <sub><b>John BigoudOps</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/terminaltrove">
             <img src="https://avatars.githubusercontent.com/u/121595180?v=4" width="60;" alt="terminaltrove"/>
             <br />
             <sub><b>Terminal Trove</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/MichaelPerron">
             <img src="https://avatars.githubusercontent.com/u/130603904?u=7c00e3e333b538bc86168cbfa72e997f818967b8&v=4" width="60;" alt="MichaelPerron"/>
@@ -633,8 +626,8 @@ Consider supporting this repo, and my [other](https://github.com/Lissy93/) proje
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/Lissy93">
-            <img src="https://avatars.githubusercontent.com/u/1862727?v=4" width="60;" alt="Lissy93"/>
+        <a href="https://github.com/lissy93">
+            <img src="https://avatars.githubusercontent.com/u/1862727?v=4" width="60;" alt="lissy93"/>
             <br />
             <sub><b>Alicia Sykes</b></sub>
         </a>
