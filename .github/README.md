@@ -458,6 +458,13 @@ Huge thanks to the following kind people, for their ongoing support in funding t
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/hostinger">
+            <img src="https://avatars.githubusercontent.com/u/2630767?v=4" width="60;" alt="hostinger"/>
+            <br />
+            <sub><b>Hostinger International</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/bile0026">
             <img src="https://avatars.githubusercontent.com/u/5022496?u=aec96ad173c0ea9baaba93807efa8a848af6595c&v=4" width="60;" alt="bile0026"/>
             <br />
@@ -498,15 +505,15 @@ Huge thanks to the following kind people, for their ongoing support in funding t
             <br />
             <sub><b>Null</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/vlad-tim">
             <img src="https://avatars.githubusercontent.com/u/11474041?u=eee43705b54d2ec9f51fc4fcce5ad18dd17c87e4&v=4" width="60;" alt="vlad-tim"/>
             <br />
             <sub><b>Vlad</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/helixzz">
             <img src="https://avatars.githubusercontent.com/u/12218889?u=d06d0c103dfbdb99450623064f7da3c5a3675fb6&v=4" width="60;" alt="helixzz"/>
@@ -555,13 +562,6 @@ Huge thanks to the following kind people, for their ongoing support in funding t
             <br />
             <sub><b>Terminal Trove</b></sub>
         </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/MichaelPerron">
-            <img src="https://avatars.githubusercontent.com/u/130603904?u=7c00e3e333b538bc86168cbfa72e997f818967b8&v=4" width="60;" alt="MichaelPerron"/>
-            <br />
-            <sub><b>Michael Perron</b></sub>
-        </a>
     </td></tr>
 <tr>
     <td align="center">
@@ -569,13 +569,6 @@ Huge thanks to the following kind people, for their ongoing support in funding t
             <img src="https://avatars.githubusercontent.com/u/163282900?u=5f2667f7fe5d284ac7a2da6b0800ea8970b0fcbf&v=4" width="60;" alt="hudsonrock-partnerships"/>
             <br />
             <sub><b>Null</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/crmzx8">
-            <img src="https://avatars.githubusercontent.com/u/170860426?u=43694046c9b5a99a3014369b22cc48815b07b457&v=4" width="60;" alt="crmzx8"/>
-            <br />
-            <sub><b>CRMX8</b></sub>
         </a>
     </td>
     <td align="center">
